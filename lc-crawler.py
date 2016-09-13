@@ -18,7 +18,7 @@ suffix = {'cpp': 'cpp', 'cplusplus': 'cpp', 'c++': 'cpp', 'c': 'c',
           'rb': 'rb', 'go': 'go', 'golang': 'go', 'swift': 'swift'}
 
 #       DEBUG       #
-DEBUG = True
+DEBUG = False
 n = 1
 #       DEBUG       #
 
