@@ -2,13 +2,8 @@
 A simple python crawler/parser for downloading accepted codes from https://leetcode.com
 
 ## Package dependencies
-1. BeautifulSoup
-
-`pip install beautifulsoup4`
-
-2. requests
-
-`pip install requests`
+1. BeautifulSoup -- `pip install beautifulsoup4`
+2. requests -- `pip install requests`
 
 ## Compatibility
 Work under python2.7 or later.
